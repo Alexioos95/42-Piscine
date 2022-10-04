@@ -1,0 +1,1 @@
+La correction automatisé de 42 m'indique que ce programme ne fonctionne pas malgré le fait que mes tests personnels semblent valides, je le laisse donc ici.
