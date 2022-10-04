@@ -1,0 +1,11 @@
+Cet exercice est buggé sur le GitHub à cause de mon PC, qui est un Windows.
+
+Pour le réaliser correctement :
+
+touch \"\\\?\$\*\'MaRViN\'\*\$\?\\\"
+/* Les characters spéciaux ne sont pas utilisables dans le terminal à moins de les précéder d'un backslash.
+Tips : https://onlinelinuxtools.com/escape-shell-characters */
+
+echo -n 42 > TABULATION
+/* echo sert à afficher du texte, tandit que l'argument n permet d'annuler le retour à la ligne automatiquement créé dans chaque fichier.
+le chevron (>) sert a rediriger ce que l'on écrit ailleurs, à savoir le fichier Marvin que l'on sélectionne avec une pression sur tab. */
